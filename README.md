@@ -1,5 +1,5 @@
 # ZomatoDataAnalysisUsingPython
-ZomatoDataAnalysisUsingPython
+
 Project Title: Zomato Restaurant Data Analytics using Python
 
 Overview: This project involves exploratory data analysis on a dataset from Zomato to derive insights into restaurant preferences, customer behavior, and rating patterns in Bangalore. The dataset includes variables such as restaurant names, booking options, ratings, votes, and cost for two people.
